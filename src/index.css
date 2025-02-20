@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+*{
+  font-family: 'Segoe UI', Roboto,Ubuntu, 'Helvetica Neue', sans-serif;
+}
+
+::selection{
+  color: rgb(255, 164, 46);
+}
