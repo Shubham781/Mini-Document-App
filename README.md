@@ -62,6 +62,7 @@ npm run preview
 ### 🖼 Screenshots
 ![Screenshot 2](https://drive.google.com/uc?id=1mie4dUmaCA3pvgrHBKPDYUqCH1Izkh8G)
 ![Screenshot 1](https://drive.google.com/uc?id=1YLIbaO73kjzUiVlya8vEHoDLRpMSh1Dj)
+![image](https://github.com/user-attachments/assets/5ccfdd90-26ac-4b2f-aafb-2c85797ae986)
 
 ## 📝 License
 This project is open-source and available under the **MIT License**.
